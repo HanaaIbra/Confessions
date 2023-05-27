@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821672873022",
+    "firebase_url": "https://confessions-a1f21.firebaseio.com",
+    "project_id": "confessions-a1f21",
+    "storage_bucket": "confessions-a1f21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821672873022:android:eb1cd3948912ec34",
+        "android_client_info": {
+          "package_name": "com.hanaa.confessions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821672873022-9con4d2ikn51ah9759c7q1i3obq75dc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanaa.confessions",
+            "certificate_hash": "caa0b144fb73cd68f4a69176f60d0cc85effa8c1"
+          }
+        },
+        {
+          "client_id": "821672873022-rojc1in69uqb8tjk64d1tr04r7k7204h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2QLg_SGw97Vd15WVPYRNRhJdLxC5zu_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821672873022-rojc1in69uqb8tjk64d1tr04r7k7204h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
